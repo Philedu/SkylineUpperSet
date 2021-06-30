@@ -1,0 +1,14 @@
+/* 
+    Created on : 25 févr. 2019, 20:33:33
+    Author     : phifi
+*/
+*{
+    margin:0px;
+    padding:0px;
+}
+canvas {
+    border: 1px black dashed;
+}
+body{
+    text-align: center;
+}
